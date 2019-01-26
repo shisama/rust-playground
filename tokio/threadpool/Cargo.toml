@@ -1,0 +1,9 @@
+[package]
+name = "threadpool"
+version = "0.1.0"
+authors = ["Masashi Hirano <cherrydog07@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1.25"
+tokio-threadpool = "0.1.11"
