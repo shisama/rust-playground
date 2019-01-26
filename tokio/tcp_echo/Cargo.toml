@@ -1,0 +1,9 @@
+[package]
+name = "tcp_echo"
+version = "0.1.0"
+authors = ["Masashi Hirano <cherrydog07@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1"
+tokio = "0.1"
